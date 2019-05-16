@@ -18,8 +18,10 @@ docs/
 downloads/
 eggs/
 .eggs/
+inputs/
 lib/
 lib64/
+outputs/
 parts/
 sdist/
 var/
