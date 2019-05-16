@@ -18,6 +18,7 @@ docs/
 downloads/
 eggs/
 .eggs/
+ForNHTSA_emission_factors/
 inputs/
 lib/
 lib64/
